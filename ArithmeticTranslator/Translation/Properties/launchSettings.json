@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Translation": {
+      "commandName": "Executable",
+      "executablePath": "D:\\РГРТУ\\4 курс 7 семестр\\Разработка компиляторов\\Лабораторные работы\\RK-Lab7\\Translation\\bin\\Debug\\netcoreapp3.1\\Translation.exe"
+    }
+  }
+}
